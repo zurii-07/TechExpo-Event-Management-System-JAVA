@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.*?>
-<?import javafx.scene.control.*?>
-<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
 
-<AnchorPane xmlns="http://javafx.com/javafx"
-            xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.example.techexpoeventmanagementsystemjavafx.RandomSpotlightSelectionController"
-            prefHeight="400.0" prefWidth="600.0">
-
+<AnchorPane prefHeight="598.0" prefWidth="760.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.techexpoeventmanagementsystemjavafx.RandomSpotlightSelectionController">
+    <VBox alignment="TOP_CENTER" layoutX="17.0" layoutY="96.0" prefHeight="426.0" prefWidth="726.0" spacing="10">
+        <TableView fx:id="randomSpotlightSelectionDetailsTable" prefHeight="400.0" prefWidth="737.0">
+            <columns>
+                <TableColumn fx:id="projectIDColumn" prefWidth="63.200042724609375" text="Project ID" />
+                <TableColumn fx:id="projectNameColumn" prefWidth="88.800048828125" text="Project Name" />
+                <TableColumn fx:id="categoryColumn" prefWidth="84.0" text="Category" />
+                <TableColumn fx:id="teamMembersColumn" minWidth="0.0" prefWidth="121.5999755859375" text="Team Members" />
+                <TableColumn fx:id="descriptionColumn" prefWidth="146.4000244140625" text="Description" />
+                <TableColumn fx:id="countryColumn" minWidth="0.0" prefWidth="78.39996337890625" text="Country" />
+                <TableColumn fx:id="teamLogoColumn" maxWidth="500.0" minWidth="0.0" prefWidth="145.5999755859375" text="Team Logo" />
+            </columns>
+        </TableView>
+    </VBox>
+    <Button layoutX="111.0" layoutY="539.0" onAction="#handleRandomSpotlightSelection" prefHeight="38.0" prefWidth="170.0" text="Random Spotlight Selection" />
+    <Button layoutX="526.0" layoutY="539.0" onAction="#handleBackToMainMenu" prefHeight="38.0" prefWidth="130.0" text="Back to Main Menu" />
+    <Label layoutX="116.0" layoutY="26.0" text="TechExpo Event Management System" textAlignment="CENTER" textFill="#00966e">
+        <font>
+            <Font name="System Bold" size="30.0" />
+        </font>
+    </Label>
 </AnchorPane>
