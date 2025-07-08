@@ -12,7 +12,7 @@ import java.util.List;
 import javafx.application.Platform;
 
 public class MainController {
-    //private final ProjectManager projectManager = new ProjectManager(); // Dependency injection of Project Manager object.
+    private final ProjectManager projectManager = new ProjectManager(); // Dependency injection of Project Manager object.
 
     //Controls for buttons that are defined in FXMLs
     @FXML
