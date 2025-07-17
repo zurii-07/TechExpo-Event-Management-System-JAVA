@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.*;
 
 public class ProjectManager {
-    //list to manage all of the projects
+    //list to manage all the projects
     private final List<Project> projects;
     private List<Project> randomSpotlightProjects;
     private boolean randomSelectionDone;
