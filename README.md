@@ -34,11 +34,11 @@ TechExpo is a technology showcase event where innovative tech projects are prese
 
 ## 🧰 Tech Stack
 
-| Tool       | Description               |
-|------------|---------------------------|
-| **Java**   | Core Programming Language |
-| **JavaFX** | GUI Framework              |
-| **.txt**   | Persistent storage backend |
+| Tool       | Description                                  |
+|------------|----------------------------------------------|
+| **Java**   | Core Programming Language <br/> OOP Concepts |
+| **JavaFX** | GUI Framework                                |
+| **.txt**   | Persistent storage backend                   |
 ---
 
 ## 🗂️ Project Structure
