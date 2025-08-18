@@ -5,8 +5,7 @@ TechExpo is a technology showcase event where innovative tech projects are prese
 
 ## 🚀 Overview
 
--TechExpo Event Management System uses a JavaFX GUI to guide through each functionality that is implemented to demonstrate this annual technology showcase event.
--Below are the functionalities implemented in the System.
+TechExpo Event Management System uses a JavaFX GUI to guide through each functionality that is implemented to demonstrate this annual technology showcase event. Below are the functionalities implemented in the System.
 
 01) Adding Project Details
 02) Updating Project Details
@@ -115,7 +114,7 @@ pip install -r requirements.txt
 ### 4.🧨 Run the App
 
 ```bash
-python MainApplication.java
+MainApplication.java #launcher
 ```
 
 ### 🧑‍🎓 Author
