@@ -1,0 +1,8 @@
+1,Robot Teacher,Education,Sunil Kamal Nimal,AI based robot specialized in learning kids ,Sri Lanka,D:\graphic designs\pexels-eberhardgross-1612351.jpg,0
+2,Smart Human Helper,Agriculture,Jen Tharuka Madara,AI robot who helps in logical thinking in agriculture,South Korea,D:\Downloads\TELEGRAM DOWNLOADS\494785130_1010308347873934_7964318417976400041_n.jpg,0
+3,Great Hotelier,Tourism,Zuri Tutu Babi,Gives advices to promote tourism in a specific field,Sweden,D:\Downloads\TELEGRAM DOWNLOADS\495364791_734298482260807_81027468330703062_n.jpg,0
+4,Zeus the great,War,Tyler Bron Rake,A war machine that detects super sonic jets and intercept their missiles.,China,D:\Downloads\TELEGRAM DOWNLOADS\497493188_1253631592845402_8571910079846283471_n.jpg,0
+5,Academic Helper,Education,Me You they,Gives clues to solve word puzzles,South Africa,D:\Downloads\TELEGRAM DOWNLOADS\495739530_987416893605521_935920827935439335_n.jpg,0
+6,Harvest Perfect,Agriculture,Dumal Sumal Bamal,Specialized in detecting harvest from wild plants,New Zealand,D:\Downloads\TELEGRAM DOWNLOADS\497608102_24145992011672831_6398100922224992859_n.jpg,0
+7,Acco Partner,Tourism,Homie Jamie Sweety,Helps finding affordable accomadations,Netherland,D:\Downloads\TELEGRAM DOWNLOADS\503772513_697437473004492_9221309984030012624_n.jpg,0
+8,Drone the Greatest,War,Yuri Bivol Artur,Fastest drone to ever produced,Russia,D:\Downloads\TELEGRAM DOWNLOADS\500743895_1233194068181937_2764289632591144433_n.jpg,0

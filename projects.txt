@@ -1,0 +1,6 @@
+001,TecGuru,Education,Nimal,Tech unboxing Guru,Sri Lanka,D:\LIFE\Event Logos\1.jpg,0
+002,AgriBOT,Agriculture,Susan,Efficient harvester Robot,USA,D:\LIFE\Event Logos\2.jpg,0
+003,WifiUnlimited,IOT,Adesanya,Free Internet for Everyone,New  Zealand,D:\LIFE\Event Logos\3.jpg,0
+004,OnlineTeacher,Education,Khamzat,AI teacher for Pre scholars,Russia,D:\LIFE\Event Logos\4.png,0
+005,WeediGo,Agriculture,Winchester,AI robot who removes wild plants from the cultivation,Iceland,D:\LIFE\Event Logos\5.png,0
+006,EdgeIOT,IOT,Fred,System that predicts Stock market change,Canada,D:\LIFE\Event Logos\6.png,0
